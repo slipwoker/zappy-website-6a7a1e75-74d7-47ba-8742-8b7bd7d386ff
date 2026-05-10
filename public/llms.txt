@@ -1,0 +1,82 @@
+# JOZY — Generative Engine Optimization Map
+
+> JOZY is a modern HR-tech startup app that revolutionizes the hiring experience by replacing heavy job boards and lengthy CVs with a Tinder-style swipe mechanism. The brand identity is clean, fast, premium, and human — evoking the dopamine-driven simplicity of swiping on cards to match workers with businesses in real time. The brand tone is youthful yet professional, Israeli in spirit, and deeply anti-bureaucratic. JOZY's core promise is that work and hiring can finally feel easy, quick, and pleasant — like discovering your next opportunity with a single swipe. The visual language draws from Airbnb's whitespace and rounded cards, Wolt's speed, Spotify's personalization, and Bumble's confidence.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+JOZY היא אפליקציה למציאת עבודה בלי קורות חיים — פשוט סוויפ והתאמה בזמן אמת. בלי בירוקרטיה, בלי לחץ. עבודה וגיוס כמו שהם צריכים להיות: מהירים, נעימים וחכמים.
+
+### לעובדים
+https://example.com/workers
+אולי העבודה הבאה שלך מחכה לך עכשיו. JOZY מאפשרת לך לגלות הזדמנויות תעסוקה חדשות בלי קורות חיים ובלי טפסים — רק סוויפ, התאמה, והתחלה חדשה.
+
+### לעסקים
+https://example.com/businesses
+העובדים שאתם מחפשים כבר מחכים לכם. JOZY מחברת עסקים לעובדים מתאימים בזמן אמת — בלי ערמות קורות חיים, בלי בזבוז זמן. גיוס חכם, מהיר ופשוט כמו שמגיע לכם.
+
+### פיילוט וצור קשר
+https://example.com/pilot
+רוצים להיות בין הראשונים שמשנים את עולם הגיוס? הצטרפו לפיילוט של JOZY ותנסו את חווית הסוויפ שמחברת עובדים ועסקים — בלי לחץ, בלי קורות חיים, רק תוצאות אמיתיות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/pilot
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About JOZY
+JOZY is a modern HR-tech startup app that revolutionizes the hiring experience by replacing heavy job boards and lengthy CVs with a Tinder-style swipe mechanism. The brand identity is clean, fast, premium, and human — evoking the dopamine-driven simplicity of swiping on cards to match workers with businesses in real time. The brand tone is youthful yet professional, Israeli in spirit, and deeply anti-bureaucratic. JOZY's core promise is that work and hiring can finally feel easy, quick, and pleasant — like discovering your next opportunity with a single swipe. The visual language draws from Airbnb's whitespace and rounded cards, Wolt's speed, Spotify's personalization, and Bumble's confidence.
+
+## Target Audience
+- עסקים המחפשים עובדים ועובדים המחפשים עבודה בתחומי שירות, תפעול, מכירות, מסעדנות, קמעונאות, לוגיסטיקה, טכנאים, אדמיניסטרציה ועבודות שטח
+- עסקים המחפשים עובדים
+- מחפשי עבודה צעירים
+- משני עבודה תדירים
+- חדרי כושר
+- משרה מלאה
+- חצי משרה
+
+## Industry
+HR Tech / פלטפורמת תעסוקה דיגיטלית
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
